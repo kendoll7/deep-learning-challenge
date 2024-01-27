@@ -45,3 +45,5 @@ An applicant has an 80% chance of being successful if they fall into these param
 Name of applicant appears more than 5 times
 Type of application is in T3, T4, T5, T6, T7, T8, T10, or T19 
 The classification of the applicant is C1000, C2000, C1200, C2100, or C3000     
+
+I recommend the RandomForest model as it reduces the effect of outliers and is also fairly accurate with a score over 75%
